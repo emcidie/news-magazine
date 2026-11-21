@@ -1,5 +1,7 @@
 # The Daily Brief
 
+**Live site:** https://emcidie.github.io/news-magazine/ (refreshed every hour)
+
 A magazine-style news page. It pulls the latest stories from the news sources you choose and reads each article. For every story it shows the headline, a picture and a summary long enough to tell you what the story says. Click any story to open the full article on the publisher's site.
 
 - **Front page:** a lead story and two side stories with key points. Below them is a section for each topic (World, Business, Technology…).
